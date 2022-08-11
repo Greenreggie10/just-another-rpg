@@ -1,0 +1,27 @@
+{
+  "name": "just-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenreggie10/just-another-rpg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenreggie10/just-another-rpg/issues"
+  },
+  "homepage": "https://github.com/Greenreggie10/just-another-rpg#readme",
+  "dependencies": {
+    "inquirer": "^9.1.0",
+    "jest": "^28.1.3"
+  },
+  "devDependencies": {}
+}
